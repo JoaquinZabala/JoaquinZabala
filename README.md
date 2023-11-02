@@ -1,5 +1,23 @@
+<!-- Introduccion -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Joaquín;I'm+from+Argentina;I'm+20+years-old;Welcome+to+my+profile!)
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- BREVE DESCRIPCION -->
+<div align="center">
+  
+  📚 I am currently studying at [UTN - Facultad Regional San Rafael](https://www.frsr.utn.edu.ar/)
+  
+  🌱 I am currently pursuing a **University degree in Programming**
+
+🏙 Contributor to [CodeSystem2022 organization](https://github.com/CodeSystem2022)
+
+👩‍💻 All of my projects are available at [Repository](https://github.com/JoaquinZabala?tab=repositories)
+
+📫 How to reach me **joacozabala21@gmail.com**
+
+</div>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
@@ -17,8 +35,8 @@
 
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaquinZabala&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinZabala&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="JoaquinZabala" /></p>
 
   </td>
 </tr>
@@ -42,13 +60,15 @@
 <!--profile visit count-->
 
 <div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=JoaquinZabala&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
-
+  
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
------------
+  
+<!-- CONTACTO -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/joaquín-zabala-a1562123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://www.instagram.com/joaco__z/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://github.com/JoaquinZabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=JoaquinZabala&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+</p></br>
