@@ -1,5 +1,5 @@
 <!-- Introduccion -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Joaquín;I'm+from+Argentina;I'm+20+years-old;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+My+name+is+Joaquín;I'm+from+Argentina;I'm+21+years-old;Welcome+to+my+profile!)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
